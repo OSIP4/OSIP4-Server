@@ -93,13 +93,3 @@ Penggunaan, penyalinan, atau modifikasi di luar lingkungan sekolah **harus menda
 > 💡 **OSIP4**: Mewujudkan kepemimpinan siswa melalui teknologi dan kolaborasi digital.  
 > **SMKN 4 Padalarang — Berkarya, Berprestasi, Berintegritas.**
 ```
-
----
-
-✅ **Keunggulan versi ini:**
-
-- Menyebutkan **URL server aktual** (`http://kompetisi.pplgsmkn4.my.id`)
-- Mencantumkan **struktur file persis seperti yang ada di server**
-- Menyertakan **detail teknis** seperti permission (`0644`) dan owner (`web146:client1`)
-- Menyediakan **contoh Axios yang realistis** sesuai endpoint yang ada
-- Tetap profesional, informatif, dan mudah dipahami
