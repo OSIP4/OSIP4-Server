@@ -92,4 +92,3 @@ Penggunaan, penyalinan, atau modifikasi di luar lingkungan sekolah **harus menda
 
 > 💡 **OSIP4**: Mewujudkan kepemimpinan siswa melalui teknologi dan kolaborasi digital.  
 > **SMKN 4 Padalarang — Berkarya, Berprestasi, Berintegritas.**
-```
